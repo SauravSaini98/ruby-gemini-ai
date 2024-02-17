@@ -4,9 +4,9 @@ Gem::Specification.new do |spec|
   spec.name          = "ruby-gemini-ai"
   spec.version       = GeminiAi::VERSION
   spec.authors       = ["Saurav Saini"]
-  spec.email         = ["sainisaurav019@gmai.com"]
+  spec.email         = ["sainisaurav019@gmail.com"]
 
-  spec.summary       = "Gemini API"
+  spec.summary       = "A Ruby Gem created to communicate with Gemini via Vertex AI, Generative Language API, or AI Studio, Google's generative AI services. It works with Ruby versions 2.6.0 and higher."
   spec.homepage      = "https://github.com/sauravsaini98/ruby-gemini-ai"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.6.0")
